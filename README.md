@@ -3,11 +3,10 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-</p>
-
 <br>
+
+## 📷 Screenshots
+![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 
 ## 🚀 Tecnologias
 
